@@ -1,10 +1,10 @@
 import React from 'react'
 
-function Coche() {
+function Coche({matricula,precio}) {
   return (
     <div>
-        <h2>Coche</h2>
-        <h3>Esto es un coche</h3>
+        <h2>Matricula { matricula} </h2>
+        <h3>Y el precio es { precio} </h3>
     </div>
   )
 }
