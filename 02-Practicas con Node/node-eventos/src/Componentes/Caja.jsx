@@ -16,7 +16,7 @@ function Caja() {
         <div id="contenidos" style={{width:"150px", height: "160px" ,background: "red"}}
             onMouseOver={(e)=>cambiar(e)}           
             onMouseOut={(e)=>cambiar(e)}
-            onDoubleClick={(e)=>cambiar(e)}>
+            onDoubleClick={cambiar}>
             Ejemplo de eventos
         </div>
     )

@@ -1,12 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import Eventos from './Componentes/Eventos';
 import Caja from './Componentes/Caja';
+import Salario from './Componentes/Salario';
 
 function App() {
   return (
     <div className="App">
-       <Eventos salario_total={1000} impuestos={15} />     
+       <Salario salario_total={1000} impuestos={15} />   
+       <Caja />  
     </div>
   );
 }

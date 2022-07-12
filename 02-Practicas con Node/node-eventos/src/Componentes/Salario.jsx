@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Eventos({salario_total, impuestos}) {
+function Salario({salario_total, impuestos}) {
     //Inicializar Resultado
     let resultado=0;
 
@@ -16,7 +16,7 @@ function Eventos({salario_total, impuestos}) {
          { /*Imprimir resultatos */}
         <p>Salario Total={salario_total}</p>
         <p>Impuestos {impuestos}</p>
-        <p id="resultado"> Resultado {resultado}</p>
+        <p id="resultado"> Resultado </p>
 
         { /*Calcular Salario 
            en HTML  onClick="calcularSalario" */}
@@ -25,4 +25,4 @@ function Eventos({salario_total, impuestos}) {
   )
 }
 
-export default Eventos
+export default Salario
