@@ -2,7 +2,7 @@
 
 ## Ficheros y ejercicios del curso de "Introducción básica a React" de Apasoft Training en UDEMY
 
-## Curso gratuito Creado en Julio del 2022
+
 
 Accede a mi página Web para ver las ofertas sobre otros cursos que tengo publicados
 
