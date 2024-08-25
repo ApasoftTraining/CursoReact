@@ -1,6 +1,6 @@
 # Curso "Introducción básica a React" de  Apasoft Training
 
-## Ficheros y ejercicios del curso de "Introducción básica a React" de Apasoft Training en UDEMY
+## Ficheros y ejercicios del curso de "Introducción básica a React" de Apasoft Training 
 
 
 
